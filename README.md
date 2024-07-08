@@ -13,5 +13,5 @@
 - for runnig the project:
 
 ```sh
- node index.js
+ node app.js
 ```
